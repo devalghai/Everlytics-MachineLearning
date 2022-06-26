@@ -10,7 +10,14 @@ Building a Machine Learning model, from a higher level, require two things
 ## Data
 ### Preparation
 Before applying ML models it is best to clean and understand data.
-The transormation of data includes handling missing values, treating outliers, scaling, encoding variables, feature extraction, feature selection or sometimes even feature engineering.
+The transormation of data includes but not limited to
+* Handling missing values
+* Treating outliers
+* Scaling 
+* Encoding variables
+* Feature extraction 
+* Feature selection 
+* Feature engineering.
 
 ### Missing Values
 The data in this project does not have missing values.
