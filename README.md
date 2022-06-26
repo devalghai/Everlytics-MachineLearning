@@ -18,6 +18,7 @@ The data in this project does not have missing values.
 ### Feature Selection 
 To select features for our model we use SelectPercentile class from sklearn.feature_selection module.
 The f-statistic to calculate feature importance. 
+
 ![image](https://user-images.githubusercontent.com/51299040/175803176-fb21ca59-3801-463f-9abc-9713e4003f58.png)
 Roughly 50% of our features show high importance. We can keep all the features but improvement in model shall be marginal and highly dispropotionate to the increase in computational expense.
 
