@@ -4,8 +4,8 @@
 Building a binary classification model that predicts if a website is real or phishing website given its features.
 
 Building a Machine Learning model, from a higher level, require two things
-   *Data
-   *Learning Algorithm(Model)
+   * Data
+   * Learning Algorithm(Model)
 
 ## Data
 ### Preparation
