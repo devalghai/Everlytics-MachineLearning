@@ -51,7 +51,7 @@ The data is not linearly separable. To create complex decision boundaries we try
 Since the entire data in our transformed feature space is Sparse matrix of indicator vectors, we can apply Bernoully Naive Bayes classifier.
 
 ### Decision Tree Classifier
-Since our data is not linearly separable and requires complex decision boundaries, DTC has the capacity to create very complex decision boundaries down to single data point.But * **With great representational capacity, comes great variance!** * DTC are very prone to overfitting if not regularized or pruned.
+Since our data is not linearly separable and requires complex decision boundaries, DTC has the capacity to create very complex decision boundaries down to single data point.But ***With great representational capacity, comes great variance!*** DTC are very prone to overfitting if not regularized or pruned.
 
 ### Random Forest Classifier
 To curb overfitting of single decision tree we use resort to collective wisdom, creating many short decision tress and using create a voting mechanism.
